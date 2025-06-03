@@ -1,5 +1,4 @@
 # **Основные сценарии:**
-
 1. add_new_book (test_add_new_book_add_two_books) Добавление книг с допустимой длиной названия
 2. check_name_length_and_uniqueness (test_add_new_book_check_name_length_and_uniqueness) Проверка ограничений: длина названия, уникальность
 3. set_book_genre(test_set_book_genre_sets_correct_genre) Присвоение допустимого жанра книге
